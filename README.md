@@ -4,9 +4,10 @@ Fullstack Developer focused on user interfaces and developer tooling
 
 ![GitHub stars](https://img.shields.io/github/stars/bottd?style=flat)
 
-Building my [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) system with [Neorg](https://github.com/nvim-neorg/neorg), I created and maintain:
+Building my [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) system with [Mog](https://github.com/bottd/mog), my custom
+markup language.
 
-- [vite-plugin-norg](https://github.com/bottd/vite-plugin-norg) - Transform `.norg` files into HTML, React, or Svelte components
+- [vite-plugin-mog](https://github.com/bottd/vite-plugin-mog) - Transform `.mg` files into HTML, React, or Svelte components
 - [neorg-worklog](https://github.com/bottd/neorg-worklog) - Automatically log files you've worked on to your daily journal
 - [neorg-archive](https://github.com/bottd/neorg-archive) - Create and manage an archival workspace for your Neorg notes
 
