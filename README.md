@@ -1,17 +1,21 @@
 <img align="right" src="asset/hammondblue.jpg" width="200" alt="My cat Hammond with blue ink on his nose" />
 
-Fullstack Developer focused on user interfaces and developer tooling
+🚧 Migrating my repos to my personal forge 🚧
+🚧 [git.drake.bot](https://www.git.drake.bot) 🚧
+
+Software Engineer focused on user interfaces and developer tooling
 
 ![GitHub stars](https://img.shields.io/github/stars/bottd?style=flat)
 
-Building my [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) system with [Mog](https://github.com/bottd/mog), my custom
-markup language.
+Building my [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) system with [Mog](https://github.com/bottd/mog), a
+markup language I designed.
 
-- [vite-plugin-mog](https://github.com/bottd/vite-plugin-mog) - Transform `.mg` files into HTML, React, or Svelte components
-- [neorg-worklog](https://github.com/bottd/neorg-worklog) - Automatically log files you've worked on to your daily journal
-- [neorg-archive](https://github.com/bottd/neorg-archive) - Create and manage an archival workspace for your Neorg notes
+- Personal Website: [drake.dev](https://drake.dev)
 
-[drake.dev](https://drake.dev)
+### Some Deployed Projects
+
+[deadlog.io](https://www.deadlog.io)
+[votes.at](https://www.votes.at)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-gray?style=flat&logo=react)
