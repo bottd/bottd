@@ -14,8 +14,8 @@ markup language I designed.
 
 ### Some Deployed Projects
 
-[deadlog.io](https://www.deadlog.io)
-[votes.at](https://www.votes.at)
+- [deadlog.io](https://www.deadlog.io)
+- [votes.at](https://www.votes.at)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-gray?style=flat&logo=react)
